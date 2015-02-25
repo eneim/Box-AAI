@@ -1,1 +1,15 @@
+name: AndroidAI
+version: 0.1.0
+description: Hybrid Android Appications build on Angularjs and Ionic framework
+type: main
+platform: ubuntu@12.04
+keywords:
+  - Android
+  - Angularjs
+  - Ionic
+package:
+  - cordova@4.2.0
+  - nodejs@0.10.35
+  - gulp-cli@3.8.11
+  - android@24.0.2
 
